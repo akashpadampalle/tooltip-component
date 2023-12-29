@@ -1,0 +1,16 @@
+.main-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.primary-button {
+    padding: 20px 80px;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    color: white;
+    font-weight: 700;
+    background-color: darkolivegreen;
+    box-shadow: 5px 5px 10px lightgrey;
+}
