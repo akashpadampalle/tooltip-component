@@ -1,4 +1,4 @@
-# Toolip Component
+# Tooltip Component
 
 This project is created for Coding Ninjas frondend skill test.
 
